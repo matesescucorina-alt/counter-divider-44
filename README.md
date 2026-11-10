@@ -2,7 +2,7 @@
 
 Proiect hardware realizat în cadrul facultății (ETcTI), constând într-un numărător sincron cu ciclu de 44 stări, alimentat la 5V și echipat cu bloc de oscilator selectabil și afișaj LED pe 6 biți.
 
-## 📋 Specificații Tehnice
+## Specificații Tehnice
 * **Secvență de numărare:** 0, 1, 2, ..., 42, 43, 0
 * **Intrare ceas (Oscilator):** Frecvențe comutabile de 5 Hz, 220 kHz și buton de impuls manual (Tick).
 * **Circuite Integrate utilizate:** 
@@ -12,7 +12,7 @@ Proiect hardware realizat în cadrul facultății (ETcTI), constând într-un nu
   * 1x `L7805` (Regulator de tensiune)
 * **Consum total estimat:** ~1.24 W
 
-## 🛠️ Conținutul Proiectului
+## Conținutul Proiectului
 - **Scheme Electronice:** Schema bloc, oscilatorul cu celulă RC, sursa de alimentare și detectorul de reset.
 - **PCB:** Layout pentru straturile Top/Bottom Copper și Silkscreen.
 - **BOM (Lista de componente):** Condensatoare, rezistoare (470Ω, 10kΩ, 100kΩ), diode (1N4001) și LED-uri de 3mm.
